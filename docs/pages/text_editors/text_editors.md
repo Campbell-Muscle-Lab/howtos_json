@@ -19,13 +19,13 @@ Visual Studio Code is an easy to use open source text editor/[IDE](https://en.wi
 
 Visual Studio code is great for editing JSON files because of the automatic error highlighting, formatting, and the ability to modify JSON files right alongside the code used for your model. Below is a screenshot of an example JSON file in Visual Studio Code:
 
-![FiberSim model file](visual_studio_code_example.png)
+![FiberSim model file](visual_studio_code_example.PNG)
 
 ### Example of Error Highlighting
 
 Following is an example of how Visual Studio Code highlights errors in JSON files. In this particular case, we have forgotten the exponent for the `"max_rate"` parameter:
 
-![FiberSim model file with max rate linted](visual_studio_code_error_example.png)
+![FiberSim model file with max rate linted](visual_studio_code_error_example.PNG)
 
 ### Get Visual Studio Code
 
